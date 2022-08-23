@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height = "72" width = "39.912" viewBox="0 0 39.9 72"
+	 style="enable-background:new 0 0 39.9 72;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#AFA5AA;}
+	.st1{fill:#AFA5AA;fill-opacity:0.3;}
+	.st2{fill:#AFA5AA;fill-opacity:0.4;}
+	.st3{opacity:0.2;fill:#AFA5AA;enable-background:new    ;}
+	.st4{opacity:0.5;fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;enable-background:new    ;}
+	.st5{opacity:0.25;enable-background:new    ;}
+	.st6{opacity:0.25;stroke:#565656;stroke-width:0.25;stroke-miterlimit:10;enable-background:new    ;}
+	.st7{fill:#6D6D6D;}
+	.st8{fill:#494949;}
+	.st9{enable-background:new    ;}
+	.st10{fill:#1A1A1A;}
+	.st11{fill:#F4F41C;}
+	.st12{fill:#AFA5AA;stroke:#AFA5AA;stroke-miterlimit:10;}
+	.st13{fill:#4D4D4D;}
+	.st14{fill:#8D8C8C;}
+	.st15{fill:#8C8663;}
+	.st16{fill:#B8AF82;}
+	.st17{fill:#80795B;}
+	.st18{fill:#5E5B43;}
+	.st19{fill:#9A916C;}
+</style>
+<g>
+	<g id="breadboard">
+		<g id="icon">
+			<path d="M0,0v33.8c1.2,0,2.2,1,2.2,2.2c0,1.2-1,2.2-2.2,2.2V72h39.9V0H0z"/>
+			<g transform="matrix(1, 0, 0, 1, 7.2, 10.0715)">
+				<g>
+					<g>
+						<g>
+							<g>
+								<rect x="0.9" y="1.7" class="st0" width="23.7" height="33"/>
+								<rect x="1.5" y="2.1" class="st0" width="1.6" height="31.9"/>
+								<rect x="3.1" y="2.1" class="st1" width="5.4" height="31.9"/>
+								<rect x="22.5" y="2.1" class="st0" width="1.6" height="33"/>
+								<rect x="16.7" y="2.1" class="st2" width="5.8" height="33"/>
+							</g>
+							<rect x="0.9" y="1.7" class="st3" width="23.7" height="0.6"/>
+						</g>
+						<line class="st4" x1="24.6" y1="4.5" x2="0.9" y2="4.5"/>
+						<g>
+							<rect x="0.9" y="31.2" class="st5" width="23.7" height="1.3"/>
+							<path class="st6" d="M5.2,32.2h15.1l0-13.3c0-4.2-3.4-7.5-7.5-7.5c-4.2,0-7.5,3.4-7.5,7.5L5.2,32.2L5.2,32.2z"/>
+						</g>
+						<g>
+							<path class="st0" d="M5.2,32.2h15.1l0-13.3c0-4.2-3.4-7.5-7.5-7.5c-4.2,0-7.5,3.4-7.5,7.5L5.2,32.2L5.2,32.2z"/>
+							<rect x="0" y="31.5" class="st0" width="25.5" height="7.7"/>
+						</g>
+						<rect x="9.9" y="0" class="st7" width="5.7" height="1.7"/>
+						<rect x="7.1" y="0.7" class="st8" width="11.2" height="1"/>
+						<g>
+							<g class="st9">
+								<g>
+									<g>
+										<path class="st10" d="M5.4,49.1c-1.9-0.9-3-2.2-3-3.7c0-2.9,4.6-5.2,10.4-5.2c5.7,0,10.4,2.3,10.4,5.2c0,0.2,0,0.3,0,0.5
+											c-0.3,2.7-4.8,4.9-10.4,4.9c-5.7,0-10.4-2.3-10.4-5.2v-0.2C2.4,46.9,3.5,48.2,5.4,49.1 M2.4,45.5v-0.2
+											c0-2.9,4.6-5.2,10.4-5.2c5.7,0,10.4,2.3,10.4,5.2v0.2c0-2.9-4.6-5.2-10.4-5.2S2.4,42.6,2.4,45.5 M25.5,39.1H0v12.8h25.5
+											L25.5,39.1"/>
+										<path class="st11" d="M15,40.8v4.7c0,0.2-0.2,0.5-0.4,0.7c-0.3,0.3-1,0.6-1.7,0.6c-0.7,0-1.3-0.2-1.6-0.5
+											c-0.4-0.2-0.6-0.5-0.6-0.8v-4.7c-4.2,0.5-7.4,2.4-7.4,4.7c0,2.7,4.3,4.8,9.6,4.8c5.3,0,9.6-2.1,9.6-4.8
+											C22.4,43.2,19.2,41.3,15,40.8"/>
+										<path class="st12" d="M12.8,40.7c0.8,0,1.5,0,2.2,0.1c4.2,0.5,7.4,2.4,7.4,4.7c0,2.7-4.3,4.8-9.6,4.8
+											c-5.3,0-9.6-2.1-9.6-4.8c0-2.3,3.2-4.2,7.4-4.7C11.3,40.7,12,40.7,12.8,40.7 M12.8,40.3c-5.7,0-10.4,2.3-10.4,5.2
+											c0,1.4,1.2,2.7,3,3.7c1.9,0.9,4.5,1.5,7.3,1.5c5.7,0,10.4-2.3,10.4-5.2v0.2c0,0.1,0,0.2,0,0.3c0-0.2,0-0.3,0-0.5
+											C23.2,42.6,18.5,40.3,12.8,40.3"/>
+										<path class="st13" d="M12.8,40.1c-5.7,0-10.4,2.3-10.4,5.2v0.2c0-2.9,4.6-5.2,10.4-5.2c5.7,0,10.4,2.3,10.4,5.2v-0.2
+											C23.2,42.4,18.5,40.1,12.8,40.1"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<rect x="0.4" y="32.2" width="1" height="6.3"/>
+						<rect x="24.1" y="32.2" width="1" height="6.3"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g transform="matrix(1, 0, 0, 1, 15.2065, 67.2516)">
+			<g>
+				<g>
+					<rect id="connector0pin" x="0" y="0" class="st14" width="2.3" height="2.3"/>
+					<rect x="0.6" y="0.6" class="st15" width="1.2" height="1.2"/>
+					<polygon class="st16" points="0,2.3 0.6,1.7 0.6,0.5 0,0 					"/>
+					<polygon class="st17" points="1.7,0.6 0.6,0.6 0,0 2.3,0 					"/>
+					<polygon class="st18" points="1.7,1.7 1.7,0.6 2.3,0 2.3,2.3 					"/>
+					<polygon class="st19" points="0,2.3 0.6,1.7 1.7,1.7 2.3,2.3 					"/>
+				</g>
+			</g>
+		</g>
+		<g transform="matrix(1, 0, 0, 1, 15.2065, 2.4516)">
+			<g>
+				<g>
+					<rect id="connector3pin" x="0" y="0" class="st14" width="2.3" height="2.3"/>
+					<rect x="0.6" y="0.6" class="st15" width="1.2" height="1.2"/>
+					<polygon class="st16" points="0,2.3 0.6,1.7 0.6,0.5 0,0 					"/>
+					<polygon class="st17" points="1.7,0.6 0.6,0.6 0,0 2.3,0 					"/>
+					<polygon class="st18" points="1.7,1.7 1.7,0.6 2.3,0 2.3,2.3 					"/>
+					<polygon class="st19" points="0,2.3 0.6,1.7 1.7,1.7 2.3,2.3 					"/>
+				</g>
+			</g>
+		</g>
+		<g transform="matrix(1, 0, 0, 1, 22.4065, 67.2516)">
+			<g>
+				<g>
+					<rect id="connector1pin" x="0" y="0" class="st14" width="2.3" height="2.3"/>
+					<rect id="connector4pin" x="0.6" y="0.6" class="st15" width="1.2" height="1.2"/>
+					<polygon class="st16" points="0,2.3 0.6,1.7 0.6,0.5 0,0 					"/>
+					<polygon class="st17" points="1.7,0.6 0.6,0.6 0,0 2.3,0 					"/>
+					<polygon class="st18" points="1.7,1.7 1.7,0.6 2.3,0 2.3,2.3 					"/>
+					<polygon class="st19" points="0,2.3 0.6,1.7 1.7,1.7 2.3,2.3 					"/>
+				</g>
+			</g>
+		</g>
+		<g transform="matrix(1, 0, 0, 1, 22.4065, 2.4516)">
+			<g>
+				<g>
+					<rect id="connector2pin" x="0" y="0" class="st14" width="2.3" height="2.3"/>
+					<rect x="0.6" y="0.6" class="st15" width="1.2" height="1.2"/>
+					<polygon class="st16" points="0,2.3 0.6,1.7 0.6,0.5 0,0 					"/>
+					<polygon class="st17" points="1.7,0.6 0.6,0.6 0,0 2.3,0 					"/>
+					<polygon class="st18" points="1.7,1.7 1.7,0.6 2.3,0 2.3,2.3 					"/>
+					<polygon class="st19" points="0,2.3 0.6,1.7 1.7,1.7 2.3,2.3 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<ellipse class="st11" cx="20" cy="55.5" rx="9.6" ry="4.7"/>
+<ellipse cx="19.9" cy="55.6" rx="6.1" ry="3"/>
+</svg>

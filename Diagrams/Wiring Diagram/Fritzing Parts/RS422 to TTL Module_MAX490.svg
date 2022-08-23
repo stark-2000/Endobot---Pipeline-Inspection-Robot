@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="svg28608" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height = "82.213" width = "137.021"
+	 viewBox="0 0 137 82.2" style="enable-background:new 0 0 137 82.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#3F4870;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:0.6338;stroke-miterlimit:2.8346;}
+	.st2{fill:#423D3F;}
+	.st3{fill:#F9F8FF;}
+	.st4{fill:#9A916C;}
+	.st5{fill:#DCDCDC;}
+	.st6{fill:#6E554B;}
+	.st7{fill:#FFFF00;}
+	.st8{fill:#B4B400;}
+	.st9{fill:#333333;}
+	.st10{fill:#FFFFFF;}
+	.st11{font-family:'DroidSans';}
+	.st12{font-size:5.8018px;}
+	.st13{font-size:8.703px;}
+	.st14{fill:#254E89;}
+	.st15{fill:#456DAB;}
+	.st16{fill:#123C66;}
+	.st17{fill:#103656;}
+	.st18{fill:#8D8C8C;}
+	.st19{fill:#A0A0A0;}
+	.st20{fill:#565656;}
+	.st21{fill:#383838;}
+	.st22{fill:#919291;}
+	.st23{fill:#57585A;}
+	.st24{fill:#8C8C8C;}
+	.st25{fill:#3A5C8E;}
+	.st26{fill:#8B8B8B;}
+	.st27{fill:#707070;}
+	.st28{fill:#545252;}
+	.st29{opacity:0.5;}
+	.st30{fill:#C4BC30;}
+	.st31{fill:none;stroke:#9A916C;stroke-width:1.1027;stroke-miterlimit:11.3386;}
+</style>
+<g id="layer7_1_">
+	<rect id="rect29168_1_" class="st0" width="137" height="82.2"/>
+	<rect id="rect29928-4_1_" x="1.3" y="22.5" class="st1" width="7.8" height="41.8"/>
+</g>
+<g transform="translate(-4.7289061,-286.56741)">
+	<g>
+		<g>
+			<g id="g1135_1_">
+				<rect id="rect832-5_1_" x="36.4" y="320.6" class="st2" width="13.9" height="20.4"/>
+				<g id="g919_1_">
+					<rect id="rect886_1_" x="50.2" y="337.9" class="st3" width="6.5" height="2"/>
+					<rect id="rect886-8_1_" x="50.3" y="332.5" class="st3" width="6.5" height="2"/>
+					<rect id="rect886-6_1_" x="50.2" y="327.1" class="st3" width="6.5" height="2"/>
+					<rect id="rect886-0_1_" x="50.2" y="321.8" class="st3" width="6.5" height="2"/>
+				</g>
+				<g transform="translate(-5.9042565,-0.02186946)">
+					<g>
+						<g>
+							<g id="g919-3_1_">
+								<rect id="rect886-5_1_" x="35.7" y="337.8" class="st3" width="6.5" height="2"/>
+								<rect id="rect886-8-0_1_" x="35.8" y="332.4" class="st3" width="6.5" height="2"/>
+								<rect id="rect886-6-9_1_" x="35.7" y="327.1" class="st3" width="6.5" height="2"/>
+								<rect id="rect886-0-7_1_" x="35.7" y="321.7" class="st3" width="6.5" height="2"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0,0.35277716,-0.35277716,0,41.504069,-10.855726)">
+	<g>
+		<g>
+			<g id="g38128_1_">
+				<g transform="rotate(90,38.050981,48.224439)">
+					<g>
+						<g>
+							<g id="g1708_1_">
+								<g id="g1706_1_">
+									<g id="g7184_1_">
+										<rect id="connector10pin_1_" x="31.6" y="11.5" class="st4" width="10.5" height="11.7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(90,38.050981,53.043339)">
+					<g>
+						<g>
+							<g id="g1714_1_">
+								<g id="g1712_1_">
+									<g id="g7187_1_">
+										<rect id="connector11pin_1_" x="43.4" y="16.3" class="st4" width="10.5" height="11.7"/>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g transform="translate(35.15262,50.130553)">
+					<g>
+						<g>
+							<g id="g2439-4_1_">
+								<g id="g2437-2_1_">
+									<g id="g7594-4_1_">
+										<g transform="rotate(90,2.2675,1.134)">
+											<g>
+												<g>
+													<g id="g2434-0_1_">
+														<g id="g2432-1_1_">
+															<g id="g7596-9_1_">
+																<path id="path7598-2_1_" class="st5" d="M13.1-25.7H-0.5c-0.6,0-1-0.5-1-1.2v-6.9c0-0.7,0.4-1.2,1-1.2h13.6
+																	c0.6,0,1,0.5,1,1.2v6.9C14.1-26.3,13.7-25.7,13.1-25.7z"/>
+																<rect id="rect7600-4_1_" x="2.4" y="-35.1" class="st6" width="7.8" height="9.3"/>
+															</g>
+														</g>
+													</g>
+												</g>
+											</g>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0,-0.28241184,0.2918292,0,13.768036,12.68628)">
+	<g>
+		<g>
+			<g id="g38295_1_">
+				<g transform="rotate(90,4.5226818,48.329239)">
+					<g>
+						<g>
+							<g id="g1732_1_">
+								<g id="g1730_1_">
+									<g id="g7196_1_">
+										<rect id="connector14pin_1_" x="73.5" y="253.8" class="st4" width="11.4" height="14.5"/>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(90,10.475382,48.329239)">
+					<g>
+						<g>
+							<g id="g1738_1_">
+								<g id="g1736_1_">
+									<g id="g7199_1_">
+										<rect id="connector15pin_1_" x="59.4" y="260" class="st4" width="11.7" height="14"/>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g transform="translate(5.09678,46.125953)">
+					<g>
+						<g>
+							<g id="g2464-6_1_">
+								<g id="g2462-8_1_">
+									<g>
+										<g transform="rotate(90,1.771495,2.833995)">
+											<g>
+												<g>
+													<g id="g2459-0_1_">
+														<g id="g2457-1_1_">
+															<g id="g7611-3_1_">
+																<path id="path7613-1_1_" class="st5" d="M57.4,210.4h17c0.5,0,0.9,0.5,0.9,1.2v12.6c0,0.7-0.4,1.2-0.9,1.2h-17
+																	c-0.5,0-0.9-0.5-0.9-1.2v-12.6C56.4,210.9,56.9,210.4,57.4,210.4z"/>
+																<rect id="rect7615-2_1_" x="60" y="210.4" class="st7" width="11.8" height="15.1"/>
+																<ellipse id="circle7617-3_1_" class="st8" cx="65.9" cy="217.9" rx="0.6" ry="0.7"/>
+															</g>
+														</g>
+													</g>
+												</g>
+											</g>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0,-0.28241184,0.2918292,0,13.768036,12.68628)">
+	<g>
+		<g>
+			<g id="g38295_2_">
+				<g transform="rotate(90,4.5226818,48.329239)">
+					<g>
+						<g>
+							<g id="g1732_2_">
+								<g id="g1730_2_">
+									<g id="g7196_2_">
+										<rect id="connector14pin_2_" x="73.7" y="277.8" class="st4" width="11" height="14.9"/>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(90,10.475382,48.329239)">
+					<g>
+						<g>
+							<g id="g1738_2_">
+								<g id="g1736_2_">
+									<g id="g7199_2_">
+										<rect id="connector15pin_2_" x="59.2" y="284.4" class="st4" width="12.1" height="13.5"/>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g transform="translate(5.09678,46.125953)">
+					<g>
+						<g>
+							<g id="g2464-6_2_">
+								<g id="g2462-8_2_">
+									<g>
+										<g transform="rotate(90,1.771495,2.833995)">
+											<g>
+												<g>
+													<g id="g2459-0_2_">
+														<g id="g2457-1_2_">
+															<g id="g7611-3_2_">
+																<path id="path7613-1_2_" class="st5" d="M57.4,234.6h17c0.5,0,0.9,0.5,0.9,1.2v12.6c0,0.7-0.4,1.2-0.9,1.2h-17
+																	c-0.5,0-0.9-0.5-0.9-1.2v-12.6C56.4,235.1,56.9,234.6,57.4,234.6z"/>
+																<rect id="rect7615-2_2_" x="60.2" y="234.3" class="st7" width="11.4" height="15.6"/>
+																<ellipse id="circle7617-3_2_" class="st8" cx="65.9" cy="242.1" rx="0.6" ry="0.7"/>
+															</g>
+														</g>
+													</g>
+												</g>
+											</g>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.35277716,0,0,0.35277716,2.5778513,-7.7600469)">
+	<g>
+		<g>
+			<g id="g38463-1_1_">
+				<rect id="connector84pin-9_1_" x="172.7" y="149.5" class="st4" width="9.8" height="12.4"/>
+				<rect id="connector85pin-7_1_" x="189.4" y="149.5" class="st4" width="9.8" height="12.4"/>
+				<g transform="translate(14.68072,51.785953)">
+					<g>
+						<g>
+							<g id="g2556-9-1_1_">
+								<g id="g2554-2-80_1_">
+									<g id="g7688-3-34_1_">
+										<path id="path7690-7-8_1_" class="st5" d="M178.1,108.6h-13.6c-0.6,0-1-0.5-1-1.2v-6.9c0-0.7,0.4-1.2,1-1.2h13.6
+											c0.6,0,1,0.5,1,1.2v6.9C179.1,108.1,178.7,108.6,178.1,108.6z"/>
+										<rect id="rect7692-0-3_1_" x="167.6" y="99" class="st9" width="7.3" height="10"/>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.35277716,0,0,0.35277716,2.5778513,-10.381945)">
+	<g>
+		<g>
+			<g id="g38463-8_1_">
+				<rect id="connector84pin-1_1_" x="172.7" y="126.4" class="st4" width="9.8" height="12.4"/>
+				<rect id="connector85pin-3_1_" x="189.4" y="126.4" class="st4" width="9.8" height="12.4"/>
+				<g transform="translate(14.68072,51.785953)">
+					<g>
+						<g>
+							<g id="g2556-9-8_1_">
+								<g id="g2554-2-0_1_">
+									<g id="g7688-3-92_1_">
+										<path id="path7690-7-6_1_" class="st5" d="M178.1,85.5h-13.6c-0.6,0-1-0.5-1-1.2v-6.9c0-0.7,0.4-1.2,1-1.2h13.6
+											c0.6,0,1,0.5,1,1.2v6.9C179.1,85,178.7,85.5,178.1,85.5z"/>
+										<rect id="rect7692-0-32_1_" x="167.6" y="75.9" class="st9" width="7.3" height="10"/>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.35277716,0,0,0.35277716,2.5778513,-13.003842)">
+	<g>
+		<g>
+			<g id="g38463-89_1_">
+				<rect id="connector84pin-5_1_" x="172.7" y="103.3" class="st4" width="9.8" height="12.4"/>
+				<rect id="connector85pin-4_1_" x="189.4" y="103.3" class="st4" width="9.8" height="12.4"/>
+				<g transform="translate(14.68072,51.785953)">
+					<g>
+						<g>
+							<g id="g2556-9-9_1_">
+								<g id="g2554-2-2_1_">
+									<g id="g7688-3-5_1_">
+										<path id="path7690-7-62_1_" class="st5" d="M178.1,62.4h-13.6c-0.6,0-1-0.5-1-1.2v-6.9c0-0.7,0.4-1.2,1-1.2h13.6
+											c0.6,0,1,0.5,1,1.2v6.9C179.1,61.8,178.7,62.4,178.1,62.4z"/>
+										<rect id="rect7692-0-0_1_" x="167.6" y="52.7" class="st9" width="7.3" height="10"/>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.35277716,0,0,0.35277716,2.5778513,-15.62574)">
+	<g>
+		<g>
+			<g id="g38463-08_1_">
+				<rect id="connector84pin-19_1_" x="172.7" y="80.2" class="st4" width="9.8" height="12.4"/>
+				<rect id="connector85pin-36_1_" x="189.4" y="80.2" class="st4" width="9.8" height="12.4"/>
+				<g transform="translate(14.68072,51.785953)">
+					<g>
+						<g>
+							<g id="g2556-9-2_1_">
+								<g id="g2554-2-3_1_">
+									<g id="g7688-3-52_1_">
+										<path id="path7690-7-1_1_" class="st5" d="M178.1,39.3h-13.6c-0.6,0-1-0.5-1-1.2v-6.9c0-0.7,0.4-1.2,1-1.2h13.6
+											c0.6,0,1,0.5,1,1.2v6.9C179.1,38.7,178.7,39.3,178.1,39.3z"/>
+										<rect id="rect7692-0-6_1_" x="167.6" y="29.6" class="st9" width="7.3" height="10"/>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.35277716,0,0,0.35277716,2.5778513,-7.7600469)">
+	<g>
+		<g>
+			<g id="g38463-1_2_">
+				<rect id="connector84pin-9_2_" x="172.7" y="178.6" class="st4" width="9.8" height="12.4"/>
+				<rect id="connector85pin-7_2_" x="189.4" y="178.6" class="st4" width="9.8" height="12.4"/>
+				<g transform="translate(14.68072,51.785953)">
+					<g>
+						<g>
+							<g id="g2556-9-1_2_">
+								<g id="g2554-2-80_2_">
+									<g id="g7688-3-34_2_">
+										<path id="path7690-7-8_2_" class="st5" d="M178.1,137.7h-13.6c-0.6,0-1-0.5-1-1.2v-6.9c0-0.7,0.4-1.2,1-1.2h13.6
+											c0.6,0,1,0.5,1,1.2v6.9C179.1,137.1,178.7,137.7,178.1,137.7z"/>
+										<rect id="rect7692-0-3_2_" x="167.6" y="128" class="st9" width="7.3" height="10"/>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.35277716,0,0,0.35277716,2.5778513,-7.7600469)">
+	<g>
+		<g>
+			<g id="g38463-1_3_">
+				<rect id="connector84pin-9_3_" x="172.7" y="207.6" class="st4" width="9.8" height="12.4"/>
+				<rect id="connector85pin-7_3_" x="189.4" y="207.6" class="st4" width="9.8" height="12.4"/>
+				<g transform="translate(14.68072,51.785953)">
+					<g>
+						<g>
+							<g id="g2556-9-1_3_">
+								<g id="g2554-2-80_3_">
+									<g id="g7688-3-34_3_">
+										<path id="path7690-7-8_3_" class="st5" d="M178.1,166.7h-13.6c-0.6,0-1-0.5-1-1.2v-6.9c0-0.7,0.4-1.2,1-1.2h13.6
+											c0.6,0,1,0.5,1,1.2v6.9C179.1,166.2,178.7,166.7,178.1,166.7z"/>
+										<rect id="rect7692-0-3_3_" x="167.6" y="157" class="st9" width="7.3" height="10"/>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0,-0.28241184,0.2918292,0,13.768036,12.68628)">
+	<g>
+		<g>
+			<g id="g38295_3_">
+				<g transform="rotate(90,4.5226818,48.329239)">
+					<g>
+						<g>
+							<g id="g1732_3_">
+								<g id="g1730_3_">
+									<g id="g7196_3_">
+										<rect id="connector14pin_3_" x="49" y="47.9" class="st4" width="10.6" height="15.4"/>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(90,10.475382,48.329239)">
+					<g>
+						<g>
+							<g id="g1738_3_">
+								<g id="g1736_3_">
+									<g id="g7199_3_">
+										<rect id="connector15pin_3_" x="34.2" y="55" class="st4" width="12.5" height="13.1"/>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g transform="translate(5.09678,46.125953)">
+					<g>
+						<g>
+							<g id="g2464-6_3_">
+								<g id="g2462-8_3_">
+									<g>
+										<g transform="rotate(90,1.771495,2.833995)">
+											<g>
+												<g>
+													<g id="g2459-0_3_">
+														<g id="g2457-1_3_">
+															<g id="g7611-3_3_">
+																<path id="path7613-1_3_" class="st5" d="M32.5,4.9h17c0.5,0,0.9,0.5,0.9,1.2v12.6c0,0.7-0.4,1.2-0.9,1.2h-17
+																	c-0.5,0-0.9-0.5-0.9-1.2V6.1C31.6,5.5,32,4.9,32.5,4.9z"/>
+																<rect id="rect7615-2_3_" x="35.5" y="4.4" class="st7" width="11.1" height="16.1"/>
+																<ellipse id="circle7617-3_3_" class="st8" cx="41" cy="12.5" rx="0.6" ry="0.7"/>
+															</g>
+														</g>
+													</g>
+												</g>
+											</g>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Text">
+	<g transform="matrix(0,1,-0.99999999,0,0,0)">
+		<g>
+			<g>
+				<g>
+					<g id="text4751_2_" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+						<text id="tspan4753_2_" transform="matrix(6.184576e-03 -0.8391 1 5.189652e-03 29.6454 -9.5956)" class="st10 st11 st12">VCC</text>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix(0,1,-0.99999999,0,0,0)">
+		<g>
+			<g>
+				<g>
+					<g id="text4751_3_" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+						<text id="tspan4753_3_" transform="matrix(6.184576e-03 -0.8391 1 5.189652e-03 40.007 -9.5965)" class="st10 st11 st12">GND</text>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix(0,1,-0.99999999,0,0,0)">
+		<g>
+			<g>
+				<g>
+					<g id="text4751_4_" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+						<text id="tspan4753_4_" transform="matrix(6.184576e-03 -0.8391 1 5.189652e-03 50.4291 -9.5952)" class="st10 st11 st12">RXD</text>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix(0,1,-0.99999999,0,0,0)">
+		<g>
+			<g>
+				<g>
+					<g id="text4751_5_" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+						<text id="tspan4753_5_" transform="matrix(6.184576e-03 -0.8391 1 5.189652e-03 61.1452 -9.5952)" class="st10 st11 st12">TXD</text>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix(0,1,-0.99999999,0,0,0)">
+		<g>
+			<g>
+				<g>
+					<g id="text4751_6_" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+						<text id="tspan4753_6_" transform="matrix(6.184576e-03 -0.8391 1 5.189652e-03 17.4828 -131.3432)" class="st10 st11 st12">A</text>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix(0,1,-0.99999999,0,0,0)">
+		<g>
+			<g>
+				<g>
+					<g id="text4751_7_" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+						<text id="tspan4753_7_" transform="matrix(6.184576e-03 -0.8391 1 5.189652e-03 34.3504 -131.3426)" class="st10 st11 st12">B</text>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix(0,1,-0.99999999,0,0,0)">
+		<g>
+			<g>
+				<g>
+					<g id="text4751_8_" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+						<text id="tspan4753_8_" transform="matrix(6.184576e-03 -0.8391 1 5.189652e-03 50.8264 -131.343)" class="st10 st11 st12">Z</text>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix(0,1,-0.99999999,0,0,0)">
+		<g>
+			<g>
+				<g>
+					<g id="text4751_10_" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+						<text id="tspan4753_10_" transform="matrix(6.184576e-03 -0.8391 1 5.189652e-03 66.944 -131.3424)" class="st10 st11 st12">Y</text>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix(0,1,-0.99999999,0,0,0)">
+		<g>
+			<g>
+				<g>
+					<g id="text4751_1_" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+						<text id="tspan4753_1_" transform="matrix(6.184576e-03 -0.8391 1 5.189652e-03 65.6141 -20.3427)" class="st10 st11 st13">RS422 -- TTL</text>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix(0,1,-0.99999999,0,0,0)">
+		<g>
+			<g>
+				<g>
+					<g id="text4751_9_" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+						<text id="tspan4753_9_" transform="matrix(6.184576e-03 -0.8391 1 5.189652e-03 30.3863 -24.9279)" class="st10 st11 st13">MAX490</text>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<rect x="79.5" y="1.9" class="st5" width="3.9" height="11.3"/>
+	<rect x="89.6" y="1.9" class="st5" width="3.9" height="11.3"/>
+	<rect x="80.4" y="2.7" class="st9" width="12.3" height="9.6"/>
+</g>
+<g>
+	<rect x="79.5" y="68.2" class="st5" width="3.9" height="11.3"/>
+	<rect x="89.7" y="68.2" class="st5" width="3.9" height="11.3"/>
+	<rect x="80.5" y="69" class="st9" width="12.3" height="9.6"/>
+</g>
+<g>
+	<rect x="79.5" y="26.3" class="st5" width="3.9" height="11.3"/>
+	<rect x="89.6" y="26.3" class="st5" width="3.9" height="11.3"/>
+	<rect x="80.4" y="27.2" class="st9" width="12.3" height="9.6"/>
+</g>
+<g>
+	<rect x="79.5" y="43.2" class="st5" width="3.9" height="11.3"/>
+	<rect x="89.6" y="43.2" class="st5" width="3.9" height="11.3"/>
+	<rect x="80.4" y="44.1" class="st9" width="12.3" height="9.6"/>
+</g>
+<rect x="99.2" y="5.1" class="st14" width="14.6" height="70.2"/>
+<rect x="99.5" y="5.1" class="st15" width="2" height="70.2"/>
+<rect x="112.8" y="5.1" class="st16" width="12.9" height="70.2"/>
+<g transform="matrix(1, 0, 0, 1, 7.2, 0)">
+	<g id="maul1_3_">
+		<rect x="107.3" y="7.7" class="st17" width="4.7" height="16.5"/>
+		<rect x="112.4" y="7.7" class="st14" width="4.9" height="16.5"/>
+		<rect x="112.6" y="11.9" class="st14" width="5.8" height="8.1"/>
+		<rect x="107.9" y="8.4" class="st18" width="8.8" height="15.1"/>
+		<path class="st19" d="M116.6,15.9c0-3.2-1.7-5.9-3.7-5.9v11.8C115,21.8,116.6,19.2,116.6,15.9z"/>
+		<path class="st20" d="M109.2,15.9c0,3.3,1.7,5.9,3.7,5.9V10C110.8,10,109.2,12.7,109.2,15.9z"/>
+		<ellipse class="st21" cx="112.9" cy="15.9" rx="2.6" ry="5"/>
+		<g>
+			<polygon class="st22" points="111.2,19.9 108.8,21.8 108.7,22.8 107.4,22.6 107.6,9.1 108.9,9.3 108.7,9.9 111.2,12.1 			"/>
+			<g>
+				<path class="st23" d="M107.7,9.5h0.8l0,0.4v0.2l0.1,0.1l2.3,1.9v7.5l-2.3,2l-0.1,0.1v0.2v0.5h-0.8V9.5 M107.4,9.1v13.7h1.5v-0.8
+					l2.4-2.1V12l-2.4-2.1V9.1L107.4,9.1L107.4,9.1z"/>
+			</g>
+		</g>
+		<rect x="117.3" y="12.5" class="st24" width="3.5" height="6.8"/>
+	</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 7.2, 0)">
+	<g id="maul1_4_">
+		<rect x="106.9" y="24.4" class="st17" width="4.7" height="16.5"/>
+		<rect x="112.1" y="24.4" class="st14" width="4.9" height="16.5"/>
+		<rect x="112.2" y="28.6" class="st14" width="5.8" height="8.1"/>
+		<rect x="107.6" y="25.1" class="st18" width="8.8" height="15.1"/>
+		<path class="st19" d="M116.3,32.6c0-3.2-1.7-5.9-3.7-5.9v11.8C114.6,38.5,116.3,35.9,116.3,32.6z"/>
+		<path class="st20" d="M108.8,32.6c0,3.3,1.7,5.9,3.7,5.9V26.7C110.5,26.7,108.8,29.4,108.8,32.6z"/>
+		<ellipse class="st21" cx="112.6" cy="32.6" rx="2.6" ry="5"/>
+		<g>
+			<polygon class="st22" points="110.8,36.5 108.5,38.5 108.4,39.5 107.1,39.3 107.2,25.8 108.6,26 108.4,26.6 110.8,28.7 			"/>
+			<g>
+				<path class="st23" d="M107.4,26.1h0.8l0,0.4v0.2l0.1,0.1l2.3,1.9v7.5l-2.3,2l-0.1,0.1v0.2v0.5h-0.8V26.1 M107.1,25.8v13.7h1.5
+					v-0.8l2.4-2.1v-7.9l-2.4-2.1v-0.8L107.1,25.8L107.1,25.8z"/>
+			</g>
+		</g>
+		<rect x="117" y="29.2" class="st24" width="3.5" height="6.8"/>
+	</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 7.2, 0)">
+	<g id="maul1_5_">
+		<rect x="107.3" y="40.6" class="st17" width="4.7" height="16.5"/>
+		<rect x="112.4" y="40.6" class="st14" width="4.9" height="16.5"/>
+		<rect x="112.6" y="44.8" class="st14" width="5.8" height="8.1"/>
+		<rect x="107.9" y="41.2" class="st18" width="8.8" height="15.1"/>
+		<path class="st19" d="M116.6,48.8c0-3.2-1.7-5.9-3.7-5.9v11.8C115,54.7,116.6,52,116.6,48.8z"/>
+		<path class="st20" d="M109.2,48.8c0,3.3,1.7,5.9,3.7,5.9V42.9C110.8,42.9,109.2,45.5,109.2,48.8z"/>
+		<ellipse class="st21" cx="112.9" cy="48.8" rx="2.6" ry="5"/>
+		<g>
+			<polygon class="st22" points="111.2,52.7 108.8,54.7 108.7,55.6 107.4,55.5 107.6,41.9 108.9,42.1 108.7,42.8 111.2,44.9 			"/>
+			<g>
+				<path class="st23" d="M107.7,42.3h0.8l0,0.4v0.2l0.1,0.1L111,45v7.5l-2.3,2l-0.1,0.1v0.2v0.5h-0.8V42.3 M107.4,41.9v13.7h1.5
+					v-0.8l2.4-2.1v-7.9l-2.4-2.1v-0.8L107.4,41.9L107.4,41.9z"/>
+			</g>
+		</g>
+		<rect x="117.3" y="45.4" class="st24" width="3.5" height="6.8"/>
+	</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 7.2, 0)">
+	<g id="maul1_6_">
+		<rect x="107.4" y="56.7" class="st17" width="4.7" height="16.5"/>
+		<rect x="112.6" y="56.7" class="st14" width="4.9" height="16.5"/>
+		<rect x="112.7" y="60.9" class="st14" width="5.8" height="8.1"/>
+		<rect x="108.1" y="57.4" class="st18" width="8.8" height="15.1"/>
+		<path class="st19" d="M116.8,65c0-3.2-1.7-5.9-3.7-5.9v11.8C115.1,70.9,116.8,68.2,116.8,65z"/>
+		<path class="st20" d="M109.3,65c0,3.3,1.7,5.9,3.7,5.9V59.1C111,59.1,109.3,61.7,109.3,65z"/>
+		<ellipse class="st21" cx="113" cy="65" rx="2.6" ry="5"/>
+		<g>
+			<polygon class="st22" points="111.3,68.9 108.9,70.8 108.9,71.8 107.5,71.6 107.7,58.1 109,58.3 108.9,58.9 111.3,61.1 			"/>
+			<g>
+				<path class="st23" d="M107.9,58.5h0.8v0.4v0.2l0.1,0.1l2.3,1.9v7.5l-2.3,2l-0.1,0.1V71v0.5h-0.8V58.5 M107.5,58.1v13.7h1.5V71
+					l2.4-2.1V61l-2.4-2.1v-0.8L107.5,58.1L107.5,58.1z"/>
+			</g>
+		</g>
+		<rect x="117.5" y="61.6" class="st24" width="3.5" height="6.8"/>
+	</g>
+</g>
+<g transform="translate(0,0)">
+	<g id="plus0_3_">
+		<g>
+			<path class="st25" d="M113,66.1c0-4.1-2.9-7.5-6.5-7.5v14.9C110.1,73.5,113,70.2,113,66.1z"/>
+			<path class="st16" d="M100,66.1c0,4.1,2.9,7.5,6.5,7.5V58.6C102.9,58.6,100,62,100,66.1z"/>
+		</g>
+		<g>
+			<g>
+				<path class="st26" d="M111.7,66.1c0,3.3-2.4,6.1-5.3,6.1c-2.9,0-5.3-2.7-5.3-6.1c0-3.3,2.4-6,5.3-6
+					C109.4,60,111.7,62.8,111.7,66.1L111.7,66.1z"/>
+				<path d="M101.3,66.1c0-3.3,2.3-5.9,5.2-5.9c2.8,0,5.2,2.7,5.2,5.9c0,3.3-2.3,5.9-5.2,5.9C103.7,72,101.3,69.4,101.3,66.1
+					 M101.2,66.1c0,3.4,2.4,6.2,5.3,6.2s5.4-2.8,5.4-6.2c0-3.4-2.4-6.2-5.4-6.2C103.6,59.9,101.2,62.7,101.2,66.1L101.2,66.1z"/>
+			</g>
+			<g>
+				<path class="st27" d="M105.3,71.8c0.4,0.1,0.8,0.2,1.2,0.2c0.4,0,0.8-0.1,1.2-0.2V60.3c-0.4-0.1-0.8-0.2-1.2-0.2
+					c-0.4,0-0.8,0.1-1.2,0.2L105.3,71.8z"/>
+			</g>
+			<g>
+				<rect x="102.5" y="64.5" class="st28" width="7.9" height="3.1"/>
+				<rect x="105.4" y="61.2" class="st28" width="2.2" height="9.7"/>
+			</g>
+			<g class="st29">
+				<path d="M101.8,66.1c0-3,2.1-5.4,4.7-5.4c2.6,0,4.7,2.4,4.7,5.4c0,3-2.1,5.4-4.7,5.4C103.9,71.5,101.8,69.1,101.8,66.1
+					 M101.3,66.1c0,3.3,2.3,5.9,5.2,5.9c2.8,0,5.2-2.7,5.2-5.9c0-3.3-2.3-5.9-5.2-5.9C103.7,60.1,101.3,62.8,101.3,66.1L101.3,66.1z
+					"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(0,0)">
+	<g id="plus0_4_">
+		<g>
+			<path class="st25" d="M112.5,49c0-4.1-2.9-7.5-6.5-7.5v14.9C109.6,56.5,112.5,53.2,112.5,49z"/>
+			<path class="st16" d="M99.6,49c0,4.1,2.9,7.5,6.5,7.5V41.6C102.5,41.6,99.6,44.9,99.6,49z"/>
+		</g>
+		<g>
+			<g>
+				<path class="st26" d="M111.3,49c0,3.3-2.4,6.1-5.3,6.1c-2.9,0-5.3-2.7-5.3-6.1c0-3.3,2.4-6,5.3-6C108.9,43,111.3,45.7,111.3,49
+					L111.3,49z"/>
+				<path d="M100.9,49c0-3.3,2.3-5.9,5.2-5.9c2.8,0,5.2,2.7,5.2,5.9c0,3.3-2.3,5.9-5.2,5.9C103.2,55,100.9,52.3,100.9,49 M100.7,49
+					c0,3.4,2.4,6.2,5.3,6.2c2.9,0,5.4-2.8,5.4-6.2c0-3.4-2.4-6.2-5.4-6.2C103.1,42.9,100.7,45.6,100.7,49L100.7,49z"/>
+			</g>
+			<g>
+				<path class="st27" d="M104.8,54.8c0.4,0.1,0.8,0.2,1.2,0.2c0.4,0,0.8-0.1,1.2-0.2V43.3c-0.4-0.1-0.8-0.2-1.2-0.2
+					c-0.4,0-0.8,0.1-1.2,0.2L104.8,54.8z"/>
+			</g>
+			<g>
+				<rect x="102.1" y="47.5" class="st28" width="7.9" height="3.1"/>
+				<rect x="104.9" y="44.2" class="st28" width="2.2" height="9.7"/>
+			</g>
+			<g class="st29">
+				<path d="M101.3,49c0-3,2.1-5.4,4.7-5.4c2.6,0,4.7,2.4,4.7,5.4c0,3-2.1,5.4-4.7,5.4C103.4,54.5,101.3,52,101.3,49 M100.9,49
+					c0,3.3,2.3,5.9,5.2,5.9c2.8,0,5.2-2.7,5.2-5.9c0-3.3-2.3-5.9-5.2-5.9C103.2,43.1,100.9,45.8,100.9,49L100.9,49z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(0,0)">
+	<g id="plus0_5_">
+		<g>
+			<path class="st25" d="M112.5,32.6c0-4.1-2.9-7.5-6.5-7.5v14.9C109.6,40.1,112.5,36.7,112.5,32.6z"/>
+			<path class="st16" d="M99.6,32.6c0,4.1,2.9,7.5,6.5,7.5V25.2C102.5,25.2,99.6,28.5,99.6,32.6z"/>
+		</g>
+		<g>
+			<g>
+				<path class="st26" d="M111.3,32.6c0,3.3-2.4,6.1-5.3,6.1c-2.9,0-5.3-2.7-5.3-6.1c0-3.3,2.4-6,5.3-6
+					C108.9,26.6,111.3,29.3,111.3,32.6L111.3,32.6z"/>
+				<path d="M100.9,32.6c0-3.3,2.3-5.9,5.2-5.9c2.8,0,5.2,2.7,5.2,5.9s-2.3,5.9-5.2,5.9C103.2,38.6,100.9,35.9,100.9,32.6
+					 M100.7,32.6c0,3.4,2.4,6.2,5.3,6.2c2.9,0,5.4-2.8,5.4-6.2c0-3.4-2.4-6.2-5.4-6.2C103.1,26.5,100.7,29.2,100.7,32.6L100.7,32.6z
+					"/>
+			</g>
+			<g>
+				<path class="st27" d="M104.8,38.4c0.4,0.1,0.8,0.2,1.2,0.2c0.4,0,0.8-0.1,1.2-0.2V26.9c-0.4-0.1-0.8-0.2-1.2-0.2
+					c-0.4,0-0.8,0.1-1.2,0.2L104.8,38.4z"/>
+			</g>
+			<g>
+				<rect x="102.1" y="31.1" class="st28" width="7.9" height="3.1"/>
+				<rect x="105" y="27.8" class="st28" width="2.2" height="9.7"/>
+			</g>
+			<g class="st29">
+				<path d="M101.3,32.6c0-3,2.1-5.4,4.7-5.4c2.6,0,4.7,2.4,4.7,5.4c0,3-2.1,5.4-4.7,5.4C103.4,38.1,101.3,35.6,101.3,32.6
+					 M100.9,32.6c0,3.3,2.3,5.9,5.2,5.9c2.8,0,5.2-2.7,5.2-5.9s-2.3-5.9-5.2-5.9C103.2,26.7,100.9,29.3,100.9,32.6L100.9,32.6z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(0,0)">
+	<g id="plus0_6_">
+		<g>
+			<path class="st25" d="M112.5,16.2c0-4.1-2.9-7.5-6.5-7.5v14.9C109.6,23.6,112.5,20.3,112.5,16.2z"/>
+			<path class="st16" d="M99.6,16.2c0,4.1,2.9,7.5,6.5,7.5V8.7C102.5,8.7,99.6,12.1,99.6,16.2z"/>
+		</g>
+		<g>
+			<g>
+				<path class="st26" d="M111.3,16.2c0,3.3-2.4,6.1-5.3,6.1c-2.9,0-5.3-2.7-5.3-6.1c0-3.3,2.4-6,5.3-6
+					C109,10.1,111.3,12.8,111.3,16.2L111.3,16.2z"/>
+				<path d="M100.9,16.2c0-3.3,2.3-5.9,5.2-5.9c2.8,0,5.2,2.7,5.2,5.9s-2.3,5.9-5.2,5.9C103.2,22.1,100.9,19.5,100.9,16.2
+					 M100.7,16.2c0,3.4,2.4,6.2,5.3,6.2c2.9,0,5.4-2.8,5.4-6.2c0-3.4-2.4-6.2-5.4-6.2C103.1,10,100.7,12.8,100.7,16.2L100.7,16.2z"
+					/>
+			</g>
+			<g>
+				<path class="st27" d="M104.8,21.9c0.4,0.1,0.8,0.2,1.2,0.2c0.4,0,0.8-0.1,1.2-0.2V10.4c-0.4-0.1-0.8-0.2-1.2-0.2
+					c-0.4,0-0.8,0.1-1.2,0.2L104.8,21.9z"/>
+			</g>
+			<g>
+				<rect x="102.1" y="14.6" class="st28" width="7.9" height="3.1"/>
+				<rect x="105" y="11.3" class="st28" width="2.2" height="9.7"/>
+			</g>
+			<g class="st29">
+				<path d="M101.3,16.2c0-3,2.1-5.4,4.7-5.4c2.6,0,4.7,2.4,4.7,5.4c0,3-2.1,5.4-4.7,5.4C103.4,21.6,101.3,19.2,101.3,16.2
+					 M100.9,16.2c0,3.3,2.3,5.9,5.2,5.9c2.8,0,5.2-2.7,5.2-5.9s-2.3-5.9-5.2-5.9C103.2,10.2,100.9,12.9,100.9,16.2L100.9,16.2z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<rect x="23.2" y="1" class="st5" width="6.9" height="9"/>
+<rect x="13.8" y="1" class="st5" width="6.9" height="9"/>
+<rect x="14.8" y="2" class="st30" width="14.2" height="7.2"/>
+<rect x="25.8" y="2" class="st6" width="1.4" height="7.2"/>
+<g transform="matrix(0.35277716,0,0,0.35277716,2.5778513,-15.62574)">
+	<g>
+		<g>
+			<g id="g38463-08_2_">
+				<rect id="connector84pin-19_2_" x="91.6" y="53.5" class="st4" width="9.5" height="12.9"/>
+				<rect id="connector85pin-36_2_" x="108.2" y="53.5" class="st4" width="9.5" height="12.9"/>
+				<g transform="translate(14.68072,51.785953)">
+					<g>
+						<g>
+							<g id="g2556-9-2_2_">
+								<g id="g2554-2-3_2_">
+									<g id="g7688-3-52_2_">
+										<path id="path7690-7-1_2_" class="st5" d="M96.8,12.8H83.2c-0.6,0-1-0.5-1-1.2V4.7c0-0.7,0.4-1.2,1-1.2h13.6
+											c0.6,0,1,0.5,1,1.2v6.9C97.8,12.3,97.4,12.8,96.8,12.8z"/>
+										<rect id="rect7692-0-6_2_" x="86.5" y="3" class="st9" width="7.1" height="10.3"/>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.35277716,0,0,0.35277716,2.5778513,-15.62574)">
+	<g>
+		<g>
+			<g id="g38463-08_3_">
+				<rect id="connector84pin-19_3_" x="75.3" y="240.5" class="st4" width="9.5" height="12.9"/>
+				<rect id="connector85pin-36_3_" x="91.9" y="240.5" class="st4" width="9.5" height="12.9"/>
+				<g transform="translate(14.68072,51.785953)">
+					<g>
+						<g>
+							<g id="g2556-9-2_3_">
+								<g id="g2554-2-3_3_">
+									<g id="g7688-3-52_3_">
+										<path id="path7690-7-1_3_" class="st5" d="M80.5,199.8H66.9c-0.6,0-1-0.5-1-1.2v-6.9c0-0.7,0.4-1.2,1-1.2h13.6
+											c0.6,0,1,0.5,1,1.2v6.9C81.5,199.3,81.1,199.8,80.5,199.8z"/>
+										<rect id="rect7692-0-6_3_" x="70.2" y="190" class="st9" width="7.1" height="10.3"/>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.35277716,0,0,0.35277716,2.5778513,-15.62574)">
+	<g>
+		<g>
+			<g id="g38463-08_4_">
+				<rect id="connector84pin-19_4_" x="75.3" y="259.9" class="st4" width="9.5" height="12.9"/>
+				<rect id="connector85pin-36_4_" x="91.9" y="259.9" class="st4" width="9.5" height="12.9"/>
+				<g transform="translate(14.68072,51.785953)">
+					<g>
+						<g>
+							<g id="g2556-9-2_4_">
+								<g id="g2554-2-3_4_">
+									<g id="g7688-3-52_4_">
+										<path id="path7690-7-1_4_" class="st5" d="M80.5,219.2H66.9c-0.6,0-1-0.5-1-1.2v-6.9c0-0.7,0.4-1.2,1-1.2h13.6
+											c0.6,0,1,0.5,1,1.2v6.9C81.5,218.7,81.1,219.2,80.5,219.2z"/>
+										<rect id="rect7692-0-6_4_" x="70.2" y="209.4" class="st9" width="7.1" height="10.3"/>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0,1,1,0,0,0)">
+	<g>
+		<g>
+			<ellipse id="connector3pin_1_" class="st31" cx="38.5" cy="5.2" rx="2.4" ry="2.9"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0,1,1,0,0,0)">
+	<g>
+		<g>
+			<ellipse id="connector3pin_3_" class="st31" cx="48.8" cy="5.2" rx="2.4" ry="2.9"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0,1,1,0,0,0)">
+	<g>
+		<g>
+			<ellipse id="connector3pin_4_" class="st31" cx="59.2" cy="5.2" rx="2.4" ry="2.9"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0,1,1,0,0,0)">
+	<g>
+		<g>
+			<ellipse id="connector3pin_5_" class="st31" cx="28.1" cy="5.2" rx="2.4" ry="2.9"/>
+		</g>
+	</g>
+</g>
+</svg>

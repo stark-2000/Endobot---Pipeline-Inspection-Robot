@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="svg844" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="34.79" width="108.01"
+	 viewBox="0 0 108 34.8" style="enable-background:new 0 0 108 34.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#1A1A1A;}
+	.st1{fill:#808080;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#1A1A1A;}
+	.st3{fill:none;stroke:#000000;stroke-width:10.3143;stroke-miterlimit:10.6317;}
+	.st4{fill:none;stroke:#000000;stroke-width:1.3624;stroke-miterlimit:10.6317;}
+</style>
+<desc>
+	<referenceFile>usb_c_breadboard.svg</referenceFile>
+</desc>
+<g transform="translate(41.574609,-177.65401)">
+	<g>
+		<g>
+			<g>
+				<g id="layer1">
+					<rect id="rect1400" x="1.1" y="177.7" class="st0" width="47.7" height="34.8"/>
+					<path id="rect1402" class="st1" d="M48.8,183.5v23.2h16.7l0,0h0.1H66c0.4,0,0.5-0.2,0.5-0.5v-22.3c0-0.3-0.2-0.5-0.5-0.5
+						c0,0-0.4,0-0.5,0h-0.1l0,0L48.8,183.5L48.8,183.5z"/>
+					<path id="path1511" class="st2" d="M0.6,186.7c-3,0.2-6,0.3-9,0.6c-0.3,0-0.7,0.1-0.8,0.4c-0.2,0.5-0.1,1-0.1,1.6
+						c0,1,0,2-0.1,3c-0.3,0.7-1.3,0.6-1.5-0.1c0-1.5,0-2.9-0.1-4.4c0-0.4-0.4-0.5-0.8-0.5c-1.7,0-3.4,0.2-5.2,0.3
+						c-0.4,0-0.8,0.1-0.8,0.5c-0.1,1.5,0,3-0.1,4.5c-0.3,0.6-1.2,0.5-1.5-0.1c-0.1-1.5,0-2.9-0.1-4.4c0-0.3-0.4-0.5-0.7-0.5
+						c-1.8,0-3.6,0.1-5.4,0.1c-0.5,0.1-0.9,0-1.3,0.2c-0.3,0.3-0.1,0.8-0.2,1c0,4.3,0,8.5,0,12.8c0,0.3,0.1,0.7,0.5,0.7
+						c1.2,0.2,2.3,0.1,3.6,0.2c1,0,2.2,0.1,3.2,0c0.5-0.1,0.5-0.6,0.5-0.9c0-1.3,0-2.6,0-3.9c0.2-0.6,0.9-0.7,1.3-0.3
+						c0.3,0.2,0.1,0.6,0.2,0.8c0.1,1.3,0,2.6,0.1,3.9c0.1,0.4,0.5,0.5,0.8,0.5c1.7,0.1,3.4,0.3,5.2,0.3c0.4,0,0.8-0.2,0.8-0.6
+						c0.1-1.4,0-2.9,0.1-4.3c0.1-0.5,0.8-0.6,1.2-0.4c0.4,0.2,0.3,0.6,0.3,0.9c0,1.2-0.1,2.5,0,3.8c0,0.4,0.4,0.6,0.7,0.6
+						c3,0.2,6,0.4,9,0.6c0.2,0,0.7,0.1,0.6-0.3c0-5.4,0-10.9,0-16.3C1.1,186.6,0.8,186.7,0.6,186.7L0.6,186.7z"/>
+					<path id="path1513" class="st3" d="M-26.8,194.7h-12.7"/>
+					<path id="connector0pin" class="st4" d="M-38.4,194.7h-1"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<path id="connector0pin_1_" class="st4" d="M12.4,12.8h-1"/>
+</svg>

@@ -1,0 +1,7 @@
+Straight shaft motor: 
+Case 1: 12cm max body length [done] (mounting outside spool perpendicular to spool axis)
+Case 2: 30cm max body length [done] (mounting inside spool)
+Case 3: Small length more dia (fat BLDC motor) [not available]
+
+90 degree motor - 12cm max [2 vendors, one is WP AC motor, other chinese guy]
+

@@ -1,0 +1,17 @@
+TIM 1, 2, 3, 4, 5, 8, 9, 12 (Timers with PWM)
+
+SPI4_SCK - White - PE12 - PWM - FT
+SPI4_MISO - Blue - PE13 - PWM - FT
+SPI4_MOSI - Green - PE14 - PWM - FT
+SPI4_CS2 - Orange - PB12 - PWM - FT
+GPIO_PB9 - Yellow - PB9 - PWM - FT
+GPIO_PA10 - Brown - PA10 - PWM - FT
+
+
+
+
+
+
+
+
+
